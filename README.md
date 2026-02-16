@@ -1,4 +1,3 @@
-# klm
 (function () {
     'use strict';
 
